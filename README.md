@@ -12,3 +12,8 @@
 8.  Data Visualization 
 9.  Report/Dashboard Building 
 10. Insights
+
+## Dashboard Image
+
+
+![Road Accident Analysis_page-0001](https://github.com/Santhosh-1801/Road-Accident-Analysis/assets/74703503/457acf07-df76-483b-beaa-b2c90b2597de)
